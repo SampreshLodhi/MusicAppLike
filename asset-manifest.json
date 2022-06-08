@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MusicAppLike/static/css/main.aa20cfd8.css",
+    "main.js": "/MusicAppLike/static/js/main.b559e466.js",
+    "index.html": "/MusicAppLike/index.html",
+    "main.aa20cfd8.css.map": "/MusicAppLike/static/css/main.aa20cfd8.css.map",
+    "main.b559e466.js.map": "/MusicAppLike/static/js/main.b559e466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa20cfd8.css",
+    "static/js/main.b559e466.js"
+  ]
+}
